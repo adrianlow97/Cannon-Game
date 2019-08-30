@@ -1,0 +1,8 @@
+-add button listener
+    -shoots a new cannonball
+-add seekbar listener
+    -adjusts angle of cannon
+-finish cannon animator
+    -make cannonball fall with gravity and motion equations
+        - ^x = vt + (1/2)a(t^2)
+-FIX THE MAIN ACTIVITY
